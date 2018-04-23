@@ -1,0 +1,17 @@
+#buttongroup{
+    position: relative;
+    bottom: -25px;
+    margin-bottom: 25px;
+    text-align: center;
+    margin-top:100px 
+}
+
+#search{
+    color: #1890ff;
+    background-color: #FFFFFF;
+
+}
+
+#continue{
+    margin-left: 15px;
+}

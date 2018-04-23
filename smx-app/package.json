@@ -1,0 +1,29 @@
+{
+  "name": "smx-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@storybook/addon-actions": "^3.4.0",
+    "@storybook/addon-links": "^3.4.0",
+    "ajv": "^6.0.0",
+    "antd": "^3.3.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.1",
+    "react-scripts-ts": "^2.14.0"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test --env=jsdom",
+    "eject": "react-scripts eject",
+    "storybook": "start-storybook -p 9001 -c .storybook",
+    "build-storybook": "build-storybook"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.2.3",
+    "babel-plugin-import": "^1.6.7",
+    "jquery": "^3.3.1",
+    "react-app-rewired": "^1.5.0"
+  }
+}

@@ -1,0 +1,41 @@
+.subs{
+    display:none;
+}
+
+.ant-card{
+    width: 280px;
+    height: 380px;
+    float: left;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-top: 25px;
+}
+
+div .price{
+    margin-bottom: 0px;
+    color:#00BFFF;
+}
+
+div .itemno{
+    margin-bottom: 0px;
+    font-size: 18px;
+    color:#CCCCCC;
+    
+}
+
+.ant-card-meta-title{
+    white-space:normal;
+}
+
+.quantity{
+     width: 80px;
+     text-align: center;
+}
+
+.ant-list-grid .ant-list-item{
+    margin-bottom: 0px;
+}
+
+
+
+

@@ -1,0 +1,44 @@
+.ant-card{
+    width: 280px;
+    height: 380px;
+    float: left;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-top: 25px;
+}
+
+
+.ant-card-cover > *{
+    height: 140px;
+
+}
+
+.ant-card-meta-detail > div:not(:last-child){
+    margin-bottom: 0px;
+}
+
+.ant-card-meta-title{
+    white-space:normal;
+    margin-bottom: 0px;
+    color:#00BFFF;
+}
+
+.ant-card-meta-description{
+    margin-bottom: 0px;
+    font-size: 18px;
+    color:#CCCCCC;
+}
+
+#description{
+    font-weight:700;
+}
+
+.substitute{
+    background:#00CD00;
+    border-color:#00CD00;
+    z-index: 1;
+}
+
+
+
+
