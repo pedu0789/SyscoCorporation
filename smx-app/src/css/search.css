@@ -1,0 +1,22 @@
+#search-background{
+    height: 60px;
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    background-color:#E5E5E5;
+    display: none;
+}
+
+#search-background span{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.ant-input-search{
+    width: 495px;
+    height: 32px;
+}
+#bigEmpty{
+    height: 400px;
+    display: none;
+}
